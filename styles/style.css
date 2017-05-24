@@ -1,0 +1,32 @@
+html, body {
+    position: relative;
+    background-color: #F2F2F2;
+    font-family: Lato, Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+}
+
+.jumbotron {
+    height: 6rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #202020;
+    color: #F2F2F2;
+    border-bottom: 0.2rem solid #D56062;
+}
+
+.subtitle {
+    font-size: 1rem;
+}
+    
+.filter-row {
+    margin-top: -1rem;
+    margin-bottom: -1rem;
+}
+
+table tbody tr:hover {
+    background-color: #DCDCDC;
+}
+
+select * {
+    font-size: 0.8rem;
+}
