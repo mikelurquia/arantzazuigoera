@@ -17,7 +17,7 @@ html, body {
 .subtitle {
     font-size: 1rem;
 }
-    
+
 .filter-row {
     margin-top: -1rem;
     margin-bottom: -1rem;
@@ -30,3 +30,4 @@ table tbody tr:hover {
 select * {
     font-size: 0.8rem;
 }
+
